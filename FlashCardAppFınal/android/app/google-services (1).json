@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "639152247130",
+    "project_id": "flashcardapp-f2170",
+    "storage_bucket": "flashcardapp-f2170.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639152247130:android:85eb95c450d7de5300a363",
+        "android_client_info": {
+          "package_name": "com.example.flashcard_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639152247130-9g416qhct1cs0m2oacvrn92uh2qgq9pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flashcard_app",
+            "certificate_hash": "c3e2157efc8e3c447a0dcbb7e7440a245263feb6"
+          }
+        },
+        {
+          "client_id": "639152247130-havh503347pln10d3fl4bm02ja5mgfut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsndLoR8lJH1zHaQPSezQwmkkNh1_lv18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639152247130-8c2erq01r7hnagmri4733u8a6n669vk8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639152247130-4m6vd0hof4if9j0d63782tkno85u7quv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flashcardApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
